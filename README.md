@@ -1,6 +1,8 @@
 # MSComplexity
 
-The repository contains our results and raw data used from the Marshall et al. (2021) paper on molecular assembly (MA) algorithm. 
+The repository contains our results and raw data used in our critique of the Marshall et al. (2021) paper on molecular assembly (MA) algorithm. 
+Our paper entitled "On the Salient Limitations of the Methods of Assembly Theory and their Classification of Molecular Biosignatures" can be found at: DOI: 10.48550/arXiv.2210.00901
+https://arxiv.org/abs/2210.00901
 
 Tha Raw Data folder contains the distance matrix files from the mass spectra of the various molecules Marshall et al. computed the MA indices of, in their figures 2-4. It also contains the 2D-BDM calculations performed on the more complex biological extracts shown in their figure 4.
 
