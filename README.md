@@ -15,7 +15,7 @@ Our objective: Assess the molecular K-complexity on the various structures using
 
 https://github.com/algorithmicnaturelab/OACC 
 
-1)	Compute BDM, compression length (gzip, LZW, Huffman coding, RLE) on InChI strings
+1)	Compute BDM, compression length (LZW, Huffman coding, RLE) on InChI strings
 2)	Repeat these measures on the mass spectrometry MS distance matrix of the .mol file for each molecule using the 2D array BDM calculator (binarize at different thresholds)
 
 https://planetcalc.com/9069/
