@@ -19,6 +19,8 @@ https://github.com/algorithmicnaturelab/OACC
 2)	Repeat these measures on the mass spectrometry MS distance matrix of the .mol file for each molecule using the 2D array BDM calculator (binarize at different thresholds)
 3)	Perform 2D-BDM on the MS2 mass spectra (peak amtrices) of the biological extracts/mixtures from Figure 4 of Marshall et al.
 
+We have also included the source data files from MA/Assembly theory in the folder ATSourceData.zip.
+
 
 https://planetcalc.com/9069/
 
