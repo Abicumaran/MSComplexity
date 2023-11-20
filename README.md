@@ -4,7 +4,7 @@ The repository contains our results and raw data used in our critique of the Mar
 Our paper entitled "On the Salient Limitations of the Methods of Assembly Theory and their Classification of Molecular Biosignatures" can be found at: DOI: 10.48550/arXiv.2210.00901
 https://arxiv.org/abs/2210.00901
 
-Tha Raw Data folder contains the distance matrix files from the various molecules Marshall et al. computed the MA indices of, in their figures 1 and 2 to create the MA chemical space, as well as their InChIds. It also contains the AID calculations performed on the 114 molecules shown in their Figure 3, and the more complex biological extracts (mixtures) shown in their figure 4, directly on the peak matrices from their MS2 mass spectrometry data. 
+Tha Raw Data folder contains the distance matrix files from the various molecules Marshall et al. computed the MA indices of, in their figures 1 and 2 to create the MA chemical space, as well as their InChI strings. It also contains the AID calculations performed on the 114 molecules shown in their Figure 3, and the more complex biological extracts (mixtures) shown in their figure 4, directly on the peak matrices from their MS2 mass spectrometry data. 
 
 The Results folder contains all our computations, and excel files with the graphs and the way they were plotted on reproducing the results from all four figures (Fig. 1-4) of the Marshall et al. (2021) paper, with our algorithmic complexity measures.
 
