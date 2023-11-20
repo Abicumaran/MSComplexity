@@ -4,7 +4,7 @@ The repository contains our results and raw data used in our critique of the Mar
 Our paper entitled "On the Salient Limitations of the Methods of Assembly Theory and their Classification of Molecular Biosignatures" can be found at: DOI: 10.48550/arXiv.2210.00901
 https://arxiv.org/abs/2210.00901
 
-Tha Raw Data folder contains the distance matrix files from the mass spectra of the various molecules Marshall et al. computed the MA indices of, in their figures 2-4. It also contains the 2D-BDM calculations performed on the more complex biological extracts shown in their figure 4.
+Tha Raw Data folder contains the distance matrix files from the various molecules Marshall et al. computed the MA indices of, in their figures 1 and 2 to create the MA chemical space, as well as their InChIds. It also contains the AID calculations performed on the 114 molecules shown in their Figure 3, and the more complex biological extracts (mixtures) shown in their figure 4, directly on the peak matrices from their MS2 mass spectrometry data. 
 
 The Results folder contains all our computations, and excel files with the graphs and the way they were plotted on reproducing the results from all four figures (Fig. 1-4) of the Marshall et al. (2021) paper, with our algorithmic complexity measures.
 
@@ -17,6 +17,8 @@ https://github.com/algorithmicnaturelab/OACC
 
 1)	Compute BDM, compression length (LZW, Huffman coding, RLE) on InChI strings
 2)	Repeat these measures on the mass spectrometry MS distance matrix of the .mol file for each molecule using the 2D array BDM calculator (binarize at different thresholds)
+3)	Perform 2D-BDM on the MS2 mass spectra (peak amtrices) of the biological extracts/mixtures from Figure 4 of Marshall et al.
+
 
 https://planetcalc.com/9069/
 
