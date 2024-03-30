@@ -6,7 +6,7 @@ https://arxiv.org/abs/2210.00901
 
 Tha Raw Data folder contains the distance matrix files from the various molecules Marshall et al. computed the MA indices of, in their figures 1 and 2 to create the MA chemical space, as well as their InChI strings. It also contains the AID calculations performed on the 114 molecules shown in their Figure 3, and the measures for the 18 (out of 25 molecules disclosed) for more complex biological extracts (mixtures) shown in their figure 4, directly on the peak matrices from their MS2 mass spectrometry data. 
 
-The .csv files with the graphs are provided so they can be re-plottedby users for reproducing the results from all four figures (Fig. 1-4) of the Marshall et al. (2021) paper, with our algorithmic complexity measures.
+The Results.zip folder contains all the .csv files with the graphs. They are provided so they can be re-plottedby users for reproducing the results from all four figures (Fig. 1-4) of the Marshall et al. (2021) paper, with our algorithmic complexity measures.
 
 Marshall, S.M., Mathis, C., Carrick, E. et al. Identifying molecules as biosignatures with assembly theory and mass spectrometry. Nat Commun 12, 3033 (2021). https://doi.org/10.1038/s41467-021-23258-x
 
